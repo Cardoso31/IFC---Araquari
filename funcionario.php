@@ -44,7 +44,6 @@ class Data{
 
 
 
-echo"<br> O metodo '__toString()' auxilia quando precisamos de uma função que retorne um valor para ser exibido\n";
 
 
 
